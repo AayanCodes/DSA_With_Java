@@ -8,17 +8,6 @@
 
 ---
 
-![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_USERNAME/DSA-with-Java?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/DSA-with-Java?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/DSA-with-Java?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/DSA-with-Java?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/DSA-with-Java?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/YOUR_USERNAME/DSA-with-Java?style=for-the-badge)
-
-</div>
-
----
-
 # 📖 About This Repository
 
 Welcome to my **Data Structures & Algorithms (DSA) with Java** repository.
@@ -118,16 +107,6 @@ Every solution focuses on:
 
 ---
 
-# 💻 Platforms
-
-- 🟢 LeetCode
-- 🔵 GeeksforGeeks
-- 🟠 HackerRank
-- 🟣 CodeStudio
-- 🔴 CodeChef
-
----
-
 # 🚀 Repository Features
 
 ✨ Well Organized Folder Structure
@@ -174,10 +153,6 @@ Automatically updated by GitHub Actions
 
 <div align="center">
 
-## ⭐ If you found this repository helpful, consider giving it a Star!
-
-**Happy Coding 🚀**
-
-Made with ❤️ by **Mohd Aayan**
+## ⭐ If you found this repository helpful, consider giving it a Star
 
 </div>
