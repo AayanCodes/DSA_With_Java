@@ -1,2 +1,183 @@
-# DSA_With_Java
-A comprehensive collection of Data Structures &amp; Algorithms solutions in Java with clean code, optimized approaches, complexity analysis, and interview-focused problems.
+<div align="center">
+
+# 🚀 DSA with Java
+
+### Mastering Data Structures & Algorithms in Java | One Problem at a Time 💻
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Welcome+to+my+DSA+Journey!;Solving+Problems+Every+Day.;Learning+%F0%9F%93%9A+Building+%F0%9F%9A%80+Growing+%F0%9F%92%AA" />
+
+---
+
+![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_USERNAME/DSA-with-Java?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/DSA-with-Java?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/DSA-with-Java?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/DSA-with-Java?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/DSA-with-Java?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/YOUR_USERNAME/DSA-with-Java?style=for-the-badge)
+
+</div>
+
+---
+
+# 📖 About This Repository
+
+Welcome to my **Data Structures & Algorithms (DSA) with Java** repository.
+
+This repository documents my complete learning journey as I practice and solve coding problems from various competitive programming platforms.
+
+Every solution focuses on:
+
+✅ Clean Java Code
+
+✅ Optimized Approach
+
+✅ Time Complexity Analysis
+
+✅ Space Complexity Analysis
+
+✅ Easy-to-Understand Logic
+
+---
+
+# 🎯 Learning Goals
+
+- ✅ Master Data Structures
+- ✅ Master Algorithms
+- ✅ Crack Coding Interviews
+- ✅ Improve Problem Solving Skills
+- ✅ Prepare for Product-Based Companies
+
+---
+
+# 📂 Topics Covered
+
+| Topic | Progress |
+|--------|----------|
+| 📦 Arrays | 🟩⬜⬜⬜⬜ |
+| 🔤 Strings | 🟩⬜⬜⬜⬜ |
+| 🔍 Searching | ⬜⬜⬜⬜⬜ |
+| 🔃 Sorting | ⬜⬜⬜⬜⬜ |
+| 🔁 Recursion | ⬜⬜⬜⬜⬜ |
+| 🌳 Trees | ⬜⬜⬜⬜⬜ |
+| 🌲 Binary Search Tree | ⬜⬜⬜⬜⬜ |
+| 🧩 Backtracking | ⬜⬜⬜⬜⬜ |
+| 📚 Stack | ⬜⬜⬜⬜⬜ |
+| 🚶 Queue | ⬜⬜⬜⬜⬜ |
+| 🔗 Linked List | ⬜⬜⬜⬜⬜ |
+| 🧠 Dynamic Programming | ⬜⬜⬜⬜⬜ |
+| 🌐 Graph | ⬜⬜⬜⬜⬜ |
+| ⚡ Greedy | ⬜⬜⬜⬜⬜ |
+| 🔐 Hashing | ⬜⬜⬜⬜⬜ |
+| 💎 Heap | ⬜⬜⬜⬜⬜ |
+| 🎯 Sliding Window | ⬜⬜⬜⬜⬜ |
+| 👉 Two Pointers | ⬜⬜⬜⬜⬜ |
+| 🧮 Bit Manipulation | ⬜⬜⬜⬜⬜ |
+
+---
+
+# 📊 Live Progress
+
+| Metric | Status |
+|---------|--------|
+| 📝 Problems Solved | **<!--TOTAL-->** |
+| 📅 Last Updated | **<!--LAST_UPDATED-->** |
+| 🔥 Current Streak | **<!--STREAK-->** |
+| 📚 Total Topics | **19** |
+| 🎯 Goal | **500+ Problems** |
+
+---
+
+# 🗂 Repository Structure
+
+```text
+📦 DSA-with-Java
+│
+├── 📁 Arrays
+├── 📁 Strings
+├── 📁 Searching
+├── 📁 Sorting
+├── 📁 Recursion
+├── 📁 Backtracking
+├── 📁 LinkedList
+├── 📁 Stack
+├── 📁 Queue
+├── 📁 Trees
+├── 📁 BST
+├── 📁 Heap
+├── 📁 Hashing
+├── 📁 Graph
+├── 📁 DynamicProgramming
+├── 📁 Greedy
+├── 📁 SlidingWindow
+├── 📁 TwoPointers
+├── 📁 BitManipulation
+│
+├── README.md
+└── LICENSE
+```
+
+---
+
+# 💻 Platforms
+
+- 🟢 LeetCode
+- 🔵 GeeksforGeeks
+- 🟠 HackerRank
+- 🟣 CodeStudio
+- 🔴 CodeChef
+
+---
+
+# 🚀 Repository Features
+
+✨ Well Organized Folder Structure
+
+✨ Beginner Friendly
+
+✨ Interview Focused Questions
+
+✨ Optimized Java Solutions
+
+✨ Time & Space Complexity
+
+✨ GitHub Actions Enabled
+
+✨ Auto Updated README
+
+✨ Professional Documentation
+
+---
+
+# 📈 GitHub Activity
+
+<!--START_SECTION:activity-->
+
+Automatically updated by GitHub Actions
+
+<!--END_SECTION:activity-->
+
+---
+
+# 🌟 Why This Repository?
+
+✔ Consistent Learning
+
+✔ Interview Preparation
+
+✔ Placement Ready
+
+✔ Clean Java Coding Practices
+
+✔ Real Coding Journey
+
+---
+
+<div align="center">
+
+## ⭐ If you found this repository helpful, consider giving it a Star!
+
+**Happy Coding 🚀**
+
+Made with ❤️ by **Mohd Aayan**
+
+</div>
