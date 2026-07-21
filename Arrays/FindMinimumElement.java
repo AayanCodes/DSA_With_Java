@@ -1,4 +1,4 @@
-public class FindMinimum {
+public class FindMinimumElement {
   public static void main(String[] args) {
     int[] arr = {15, 40, 7, 89, 23};
 
