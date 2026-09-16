@@ -1,4 +1,5 @@
-public class MatrixPrint {
+// print the all values in wave form (row wise)
+public class MatrixPrintRow {
   public static void main(String[] args ) {
     int [][] array = new int [][] {{0, 1, 2, 3}, {10, 20, 30, 40}, {50, 60, 70, 80} };
 
