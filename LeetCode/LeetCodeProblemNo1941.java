@@ -19,7 +19,7 @@
 // 'a' occurs 3 times while 'b' occurs 2 times, which is not the same number of times.
 
 
-public class EqualCharacterOccurence {
+public class LeetCodeProblemNo1941 {
 
     public static void main(String[] args) {
 
