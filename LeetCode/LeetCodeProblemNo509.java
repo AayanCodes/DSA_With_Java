@@ -30,7 +30,7 @@
 
 // 0 <= n <= 30
 
-public class Fabnaccio_509 {
+public class LeetCodeProblemNo509{
     public static void main(String[] args) {
         int n = 10;
 
